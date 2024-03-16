@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digraskarsushant" alt="digraskarsushant" /></a> </p>
 
-- 🔭 I’m currently working on [Pawize](https://pawize.co.uk/)
-
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, React, Java, Web development**
 
 - 📫 How to reach me **digraskarsushant12@gmail.com**
 
