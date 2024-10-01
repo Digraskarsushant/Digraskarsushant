@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digraskarsushant" alt="digraskarsushant" /></a> </p>
 
-- 💬 Ask me about **Python, React, Java, Web development**
+- 💬 Ask me about **Python,Java, Kotlin, React, Java, Web development**
 
 - 📫 How to reach me **digraskarsushant12@gmail.com**
 
